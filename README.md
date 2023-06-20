@@ -1,9 +1,9 @@
 # Internet Radio Flet Python
 Internet Radio using Flet Framework
 
-#### Install All Packages from a requirements.txt File Using pip and Python:
+#### Install flet framework using pip:
 
-<code>pip install -r requirements.txt</code>
+<code>pip install flet</code>
 
 #### Run:
 <code>flet main.py</code>
